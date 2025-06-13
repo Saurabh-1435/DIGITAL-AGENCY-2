@@ -4,7 +4,7 @@ A clean, scalable, and lightning-fast web application built by me using the best
 
 ## 🔗 Live Demo
 
-🌐 [View Project] 
+🌐 [View Project] https://digital-agency-02.netlify.app/
 
 ---
 
